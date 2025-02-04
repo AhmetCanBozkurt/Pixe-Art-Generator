@@ -14,3 +14,5 @@ Pixel Art Grid Editor, kullanıcıların bir ızgara (grid) üzerinde piksel baz
 - **HTML & CSS** - Sayfa yapısını ve stilleri oluşturmak için
 - **JavaScript** - Dinamik işlemleri yönetmek için
 
+## Demo
+https://pixel-art-generator-h.netlify.app/
